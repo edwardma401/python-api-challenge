@@ -1,0 +1,1001 @@
+Weather,City Name,City ID
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Gamarra,3682182
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Cuenca,2519034
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",English,4257173
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Enney,2660890
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Heinzenhausen,2907175
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Branzi,6535774
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Rota,6356945
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Falkenberg,2715573
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Jennings,2162367
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Tebag East,1682559
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Ascheffel,2955222
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Insiza,889795
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Torrecilla de la Jara,6361830
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Trofaiach,7873488
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Boituva,6322144
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Talsarnau,7298011
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Frei Paulo,3462944
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Mount Horeb,5263667
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Drăguşeni,678883
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Talais,2973513
+"[{'id': 211, 'main': 'Thunderstorm', 'description': 'thunderstorm', 'icon': '11d'}]",Vieux Lyon,8015556
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Jonkowo,770025
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Butzow,6548252
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02n'}]",Asínou,146778
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02n'}]",Wolvi,2143225
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",San Marcos,3601899
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Gestalgar,6361998
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Aziatskaya,580084
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Châteauvieux,6448913
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Camopi,3382226
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Grauhof,2917909
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Neum,3194514
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Berthier-Sur-Mer,6325480
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Göpfersdorf,2919073
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Friedens,5190547
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Lummen,2792008
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10n'}]",Jalpāiguri,1269388
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Gummersbach,2913761
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Sukhodol,486626
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Golfito,3623656
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Navalafuente,6359318
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Drexel Hill,4557606
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Usta Muhammad,1162868
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02n'}]",Keryneia,146411
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Seguin,4727756
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Show Low,5314245
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Cublaisé,3022191
+"[{'id': 521, 'main': 'Rain', 'description': 'shower rain', 'icon': '09d'}]",Eppendorf,2929853
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Cosa,3124418
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Gemeente Koggenland,6544220
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Assaré,3407010
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",San Stefano,727443
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Tlyarata,482589
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Glencross,5961889
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}, {'id': 301, 'main': 'Drizzle', 'description': 'drizzle', 'icon': '09d'}, {'id': 701, 'main': 'Mist', 'description': 'mist', 'icon': '50d'}]",Piriapolis,3441074
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Tata,2529362
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Lourdes,3458417
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Yangjiafang,1928100
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Gardone Riviera,3176312
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Condezaygues,6449309
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Pueblo Juárez,3815479
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Zungeru,2317569
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Bagenalstown,2966800
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Punxín,3112638
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Dintesheim,6554835
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Wangi,8074741
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Calera de León,2520529
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Poggio San Vicino,3170434
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Chapaev,610132
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Hohenwutzen,2901333
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Pie' del Colle,3170856
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Niederbeisheim,2863618
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Matrice,3173709
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Pourrain,6454866
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Rognes,2983127
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Racksen,6553437
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Niesky,2862460
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Whitfield,4230822
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Hourtin,6454003
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Linghu,1803520
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Halfeti,312862
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Saon,6427502
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Fairford Reserve,5950954
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Le Bouchaud,6456646
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",San Antonio,4171771
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Drăguşeni,678886
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Kouffo Department,2597273
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Torlengua,6361213
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Kazimierza Wielka,769346
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Jinglou,1805614
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Hennepin,5029877
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Laban,7375664
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Challes,3027508
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Garlitos,2517322
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Vyazemskiy,2013229
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Skyros,8133975
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Contes,3023842
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Beaufort,4454370
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Metterich,2871549
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Chalais,2661229
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Hayes,3490106
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Jarzt,2895148
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Poveda,6355788
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Chongdui,1281484
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Akumal,3533116
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Matanza,3675118
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Ūst'-Talovka,1517610
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Plöwen,2853111
+"[{'id': 521, 'main': 'Rain', 'description': 'shower rain', 'icon': '09d'}]",Río Abajo,4567732
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Albion,4956545
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Hautes-Alpes,3013738
+"[{'id': 211, 'main': 'Thunderstorm', 'description': 'thunderstorm', 'icon': '11d'}]",Gemeente Rotterdam,2747890
+"[{'id': 211, 'main': 'Thunderstorm', 'description': 'thunderstorm', 'icon': '11d'}]",Saint-Privat-la-Montagne,2977323
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Roeland Park,4278272
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",São Manços,2263292
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Innerthal,7286140
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Maïs Gâté,3721718
+"[{'id': 521, 'main': 'Rain', 'description': 'shower rain', 'icon': '09d'}]",Farmsen-Berne,7932386
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Peenemünde,2855091
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Sartajada,6361819
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Beetzendorf,2951522
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Gemeente Leusden,2751688
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Prien,4338068
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Montigny-en-Ostrevent,6617197
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Jiahu,1806491
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Ellenstedt,2931047
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Plodio,6534380
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Shanxia,1921281
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Heilhausen,2907657
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Avinyonet de Puigventós,3129129
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Offstein,6555448
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Grande Saline,3724432
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Valtierra,3106430
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Zhizhong,1784480
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Oberderdingen,2861116
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Sala Consilina,3168699
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Radinghem-en-Weppes,2984583
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Zafar,1512287
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Bulata,1722941
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Almecatla,3518543
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",San Vittore del Lazio,3167174
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Manchester Center,5238321
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Zgornja Kungota,3186538
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Ruggell,3042046
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Kleczew,3096160
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Baiyun,1817224
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Juncal,2267310
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Waldrohrbach,2814821
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Concepcion,1716996
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Xiantan,1790376
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Quesada,3590987
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Burgfarrnbach,2941333
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Bolivar,4377835
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Bayang,1725844
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Essen,2798615
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Byrum,2623199
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Būgai,594562
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Kazar’,551407
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Guttau,6548612
+"[{'id': 502, 'main': 'Rain', 'description': 'heavy intensity rain', 'icon': '10n'}]",Liberty,1706658
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Avesta,2724231
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Natagaima,3674010
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Antey-Saint-André,3183030
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Villalbilla de Burgos,3105500
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Jászalsószentgyörgy,719656
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Boulevardo Tomas de Castro II,4562946
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Simpsonville,4308453
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Iwaniska,770772
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Couvin,2800026
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Dačice,3077304
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Greater Poland Voivodeship,3337498
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Beernem,2802438
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]","Corrales de Buelna, Los",6360672
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Lake Magdalene,4161313
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Changqing,1815585
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Eschau,3019817
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Piúma,3453435
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Yangling,1787458
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Orem,5779334
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Helmarshausen,2906754
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Ari,3182856
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Mos,3116057
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Bac Kan,1591538
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Bansat,3035108
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Mount Lloyd,2156594
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Abaza,1512205
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Lawtell,4330633
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Parabcan,1692792
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Gauteng,1085594
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Pöhl,6548540
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Petite Île,935697
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Grant,5028612
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Casavatore,6542339
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Tebuk,7429789
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Obergebra,2860648
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Reichsthal,6554999
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Empress,5948716
+"[{'id': 520, 'main': 'Rain', 'description': 'light intensity shower rain', 'icon': '09d'}]",Herrliberg,2660359
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Altenmarkt bei Fürstenfeld,2782678
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Lasel,2880388
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Tinh Ninh Binh,1559970
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Niedernetphen,2863064
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Fëdorovskoye,563076
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Banzkow,6548337
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Patrocínio,3454763
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Fuenteguinaldo,6360379
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Vineyard,7176039
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Clear Lake Shores,4681951
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Kadarkút,3050785
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Lisberg,2876855
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Builyan,2173564
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Ciburial,7758075
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Wanneperveen,2745048
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Holland,5121004
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Torrubia del Castillo,6357540
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Karagay,552887
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Kimball,4634474
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Easington Colliery,7287966
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Saint-Jean-de-Sixt,2979283
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Dignano,3177584
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Sieradza,759266
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Sundridge,6159476
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Schkortleben,2839041
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Mariabrunn,2873689
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Saint-Jacques,6138411
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Venta,593303
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Kesselbach,2891458
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Konotop,3095307
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Algarra,6357374
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Bari,1650005
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Meitang,1800808
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Neustadt an der Aisch,2864057
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Hampshire,4938757
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Kobilje,3197959
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Valdepeñas,2509983
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Irschen,7872781
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",La Vega de Acá,2515136
+"[{'id': 211, 'main': 'Thunderstorm', 'description': 'thunderstorm', 'icon': '11d'}]",Berzunţi,684970
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Colón,3712076
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Los Amates,3593235
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Guaymas,4005143
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Cagwait,1720907
+"[{'id': 721, 'main': 'Haze', 'description': 'haze', 'icon': '50n'}]",Rām Dās,1258708
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Morcone,3172612
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Passin,2855307
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Pumpkin Center,4486727
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Saint-Armel,6613771
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Covington,4321005
+"[{'id': 521, 'main': 'Rain', 'description': 'shower rain', 'icon': '09d'}]",Düsseldorf District,2934245
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Rheinfelden,2659060
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",L'Abbaye,7287676
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Totolapan,3515195
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Pfaffroda,2854299
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02n'}]",Kebonsari,7350565
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Landkreis Bad Dürkheim,2953523
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Trappe,4371620
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Chikhli,1274235
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Campsall,2653910
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Domaszék,721316
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Leney,6052275
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Gateway,5862727
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Albernau,2958734
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",La Gaude,3009150
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Hackerberg,7871556
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Fabrezan,3019157
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Bolkhov,575364
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Waikoloa,5854410
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Köddingen,2886849
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Peymeinade,2987554
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Carcavelos,8012456
+"[{'id': 520, 'main': 'Rain', 'description': 'light intensity shower rain', 'icon': '09d'}]",Juprelle,2794855
+"[{'id': 211, 'main': 'Thunderstorm', 'description': 'thunderstorm', 'icon': '11d'}]",Saint-André-de-Corcy,6424649
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Segnitz,6557016
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Friedland,6552338
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Karow,2892709
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Mason Vicentino,6535008
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Mme-Bafumen,2226441
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Grubschütz,2914562
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Campo Bom,3467791
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Laibin,1804609
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Kröpelin,2883602
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Bugasong,1723313
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Kragujevac,789128
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Cosne-d'Allier,3023478
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Uthai Thani,1149965
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Jászjákóhalma,719645
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Santana do Matos,3389381
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}, {'id': 211, 'main': 'Thunderstorm', 'description': 'thunderstorm', 'icon': '11d'}]",Lake Worth Corridor,4161424
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Kumlinge,650397
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Provincia di Piacenza,3171057
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Warbsen,2814154
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Torralba del Burgo,3107872
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Cabezas Rubias,6358191
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Bowman Corners,5234041
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Guarantã,3461889
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Krasnaya Kriusha,542715
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Steinfurth,3209057
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Göfis,7873743
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Cigawir,7858306
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",The Meadows,4175136
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Adolfo Gonzáles Chaves,3854937
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Montevideo,3441575
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Capel,7839480
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Nowe Warpno,3090590
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Santo Tomas,1687534
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Balas,1960764
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Flen,2714401
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Ruppertsberg,2842981
+"[{'id': 520, 'main': 'Rain', 'description': 'light intensity shower rain', 'icon': '09d'}]",Feldhof,6291508
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Sherwood Park,6146279
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Boissise-le-Roi,3031917
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Le Syndicat,2999303
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02n'}]",Banjar Mundeh,7334365
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Balangpule,7035917
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Lendresse,3003130
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Ternovka,483341
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02n'}]",Srivilliputhur,1255616
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10n'}]",Kikuchi,1859492
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Tangcun,1793452
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Baindt,2953178
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10n'}]",Bislig,1724766
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Beirolas,2270986
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Savogna d'Isonzo,3167024
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Teupasenti,3600841
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Tikrit,90150
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Frangy,3017334
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Khanskaya,550708
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Langen Brütz,6548367
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Brennes,2944274
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Bahrenfleth,2953234
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Camerana,6534353
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Woodland Hills Mobile Home Park,4231786
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Udenhausen,2820500
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Ausacker,6552013
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Llanvaches,2643929
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Aldeavieja de Tormes,6360282
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Cileungsir,8064347
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02n'}]",Panabo,1695804
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Rameshki,502903
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Zol’noye,686898
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Athies-sous-Laon,3036464
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Bilad,1725308
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Gunzendorf,2913543
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Aipetu,7380160
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Los Planes,3605382
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Kīratpur,1266509
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Kakunodatemachi,2112454
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Monétay-sur-Allier,6425405
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Oviedo,4167348
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Berastegi,6358113
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Sid Place,5530683
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02n'}]",Tunceli,298846
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Oskarshamns Kommun,2686161
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Wallinduc,2144908
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Anle,1818030
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Calaveras,5332628
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Klagen,7035968
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Ikongo,1064234
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Cibeulah,8053798
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Ringleben,2846594
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Gravatá,3398691
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Australind,2077454
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Lessau,2878492
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Cisolok,1646082
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Schachen,7669904
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Notre-Dame-du-Touchet,6435520
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Gampola,1246000
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Brentford,2654787
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Ustersbach,6557152
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Valle de Cerrato,6360128
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Villemoustaussou,6426915
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Rădăuți-Prut,669288
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Viviers-du-Lac,2998732
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",High Rock,3572189
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Walton Hills,5175655
+"[{'id': 211, 'main': 'Thunderstorm', 'description': 'thunderstorm', 'icon': '11d'}]",Joudreville,3012227
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Estrela,3463762
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Swains Island,5881199
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Incheon,1843561
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Minco,4542876
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Upala,3621153
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Slochteren,2747143
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Hauteroda,2908669
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Mouriscas,8012960
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Hällbybrunn,2708710
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Yeager,4556125
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Yunhe,6644099
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Kielpa,2068506
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Cabadbaran,1722032
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Nazaré,8012383
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Cerisé,3027875
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Tucuruí,3385935
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Pont-de-Veyle,2986225
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Altivole,6535016
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Beckeln,6552961
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02n'}]",Tinh Phu Yen,1569805
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Orán,3836620
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Devine,5938768
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Miwa,1856845
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Jingzhou,1805540
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Mehlbek,6552217
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Mischendorf,7872744
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Villanueva de Tapia,6359502
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Wettringen,2809921
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Le Grand Léger,3003992
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Bureå,606370
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",les Franqueses del Vallès,3118929
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10n'}]",Lalitpur,1283154
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Peştişu Mic,671049
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Burgueta,3127458
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Robregordo,3111494
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Wernshausen,2810775
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Gemeente Aalsmeer,2760133
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Willowbrook,4916710
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",San Ignacio,3872175
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Mineral del Chico,3523181
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Melbeck,2872117
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Vieux-Mareuil,2969196
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Voulgaréli,262862
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Bosa,3181706
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Mulvane,4276017
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Salins-les-Bains,2976413
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Morsains,2991722
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Wacousta,5013849
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Ihlenfeld,2896652
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Zebrzydowice,3080368
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Ruschberg,6553635
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Bystrytsya,710995
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Castellanos,3125922
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Gamboa,3709373
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Barice,3262877
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Muqi,2035697
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Adahuesca,3130965
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Ustroń,3082751
+"[{'id': 211, 'main': 'Thunderstorm', 'description': 'thunderstorm', 'icon': '11d'}]",Dabene,731873
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Chiado,6930126
+"[{'id': 520, 'main': 'Rain', 'description': 'light intensity shower rain', 'icon': '09d'}]",Olne,2789869
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Dicle,316748
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Oberems,2659395
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Arsac-en-Velay,6449008
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Blaufelden,2947919
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Maqiu,1925046
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Goderville,3015765
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Isenthal,2660244
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Bradu,683933
+"[{'id': 200, 'main': 'Thunderstorm', 'description': 'thunderstorm with light rain', 'icon': '11d'}]",Vésztő,714073
+"[{'id': 520, 'main': 'Rain', 'description': 'light intensity shower rain', 'icon': '09d'}]",Wolfhausen,6295543
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Alpenrod,6554188
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Palos,1514843
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Malajog,1703221
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Sumter County,4225168
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Martinez,4207981
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Old Fort,6093148
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Wattenwil,7287548
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Molinillo,6360437
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Tichborne,2146656
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",České Velenice,3077903
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Wirfuserbach,2807550
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Bancroft,2176992
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Mirafuentes,6359718
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Markovo,2020208
+"[{'id': 721, 'main': 'Haze', 'description': 'haze', 'icon': '50n'}]",Bhandārdaha,1348737
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Pringle Bay,3362671
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Beaudesert,2176495
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Gurnard,2647752
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Langui,3936963
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Parkhurst,2153775
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Ramallah,282239
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Arrondissement de Rambouillet,2984512
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Leintz-Gatzaga,3111017
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Wört,2806097
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Bitin,1724691
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Großschweidnitz,6548675
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Gönnheim,6554903
+"[{'id': 211, 'main': 'Thunderstorm', 'description': 'thunderstorm', 'icon': '11d'}, {'id': 521, 'main': 'Rain', 'description': 'shower rain', 'icon': '09d'}]",Šakiai,595043
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Xiangjiazhai,7059590
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Olmedo,6362231
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Ubay,1680475
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Dörrenbach,6555176
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Tallong,2147551
+"[{'id': 520, 'main': 'Rain', 'description': 'light intensity shower rain', 'icon': '09d'}]",Sotkamo,636173
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Sierndorf,2765083
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Alfhausen,6552973
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Büstorf,2940670
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Yuzhnyy,840987
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Abja-Paluoja,592626
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Saint James,4406909
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Xinlong,7650840
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Taylorsville,4494650
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Ettenstatt,6547455
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Asseiceira,2271426
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Varrel,6552465
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Carlanstown,2965773
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02n'}]",Ambatofinandrahana,1083239
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Vignanello,3164354
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Monte Santo,3456820
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Zwevegem,2783090
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Blackall Tambo,7839560
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Ponderosa Park,5435059
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Alto,4179624
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Viterbo,3665851
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Juan López Abajo,3503845
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Magallón,3117708
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Osljak,3192541
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Roccantica,3169160
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Waibstadt,2815328
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Mesa,2737712
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Aduanas,2522427
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Kitob Shahri,1346485
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Mendota Heights,5037280
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Vladimirci,3187548
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02n'}]",Sambek,499040
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Delod Pangkung,7547253
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02n'}]",Banjar Bengkelgede,7333774
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Montbron,2992886
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Beaumont-sur-Sarthe,3034140
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Wattenheim,6554923
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Cersosimo,3179025
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Qionghu,1797543
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Amarante Municipality,8010577
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02n'}]",Pickering Brook,2063432
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Bolengpulau,7567942
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Blaschette,2960754
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Khan Shaykhun,168325
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Newton,5090268
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Piggs Peak,934881
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Raedersheim,2984578
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Lada,3119807
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Tibiao,1682405
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Bayard,4146885
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Ellerstadt,2930965
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Huai’an,1941819
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Siviano,3166482
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Flora,4238777
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Veliko Tarnovo,864561
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Badeborn,2953518
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Saleilles,2976481
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Dambach,2939256
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Damao,1917594
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Labasheeda,2963065
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Hurlach,2897245
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Hadancourt-le-Haut-Clocher,6438738
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Suzigou,2034623
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Volkonka,823600
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Blumenhagen,2947552
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Berg,2950723
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Bourran,6449280
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Glenhaven,2165303
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Piteglio,3170617
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Shāhpur,1256716
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Payns,2988301
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Mandello Vitta,6535446
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Anglès,6534008
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Lishan,1803267
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Belém de São Francisco,3405852
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Acton Vale,5882142
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Hermance,7286069
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Tolland,4844275
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02n'}]",Amamoor,2177977
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Beclean,685205
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Treville,6534903
+"[{'id': 520, 'main': 'Rain', 'description': 'light intensity shower rain', 'icon': '09d'}]",Schlieren / Spital,6295349
+"[{'id': 200, 'main': 'Thunderstorm', 'description': 'thunderstorm with light rain', 'icon': '11n'}]",Yeşilhisar,296860
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Reydarfjordur,2632428
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Oakland,5204168
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Damwâld,2757838
+"[{'id': 520, 'main': 'Rain', 'description': 'light intensity shower rain', 'icon': '09d'}]",Illnau,2660269
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Brunn,2943222
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Lapa,3458826
+"[{'id': 502, 'main': 'Rain', 'description': 'heavy intensity rain', 'icon': '10n'}]",Tamano,1850742
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Zulte,2783152
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Wimm,2761156
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Quintanilla del Coco,3112467
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Fucecchio,3176504
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Banī Na‘īm,284431
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Vyal’kovo,470783
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",El Segundo,5345860
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Kaohsiung City,1673820
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Ummerstadt,2820169
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Mount Garnet,2156641
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Ochsenfeld,2858334
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Khan Yunis,281124
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Warth,7873004
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Longnor,2643651
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Montecassiano,3173006
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Lustra,3174423
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Cedar Glen Lakes,4501111
+"[{'id': 521, 'main': 'Rain', 'description': 'shower rain', 'icon': '09d'}, {'id': 211, 'main': 'Thunderstorm', 'description': 'thunderstorm', 'icon': '11d'}]",Mathi,3173714
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Cârlogani,681549
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Barroso,3406038
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Mangān,1133965
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Gorleben,6558465
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Mitrovići,3342186
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Limeira,3458575
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Tarso,3667380
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Supetar,3189492
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10n'}]",Fale old settlement,4031110
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Ellaville,4193210
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Tourcoing,6438526
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Unterhegenau,2819390
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",La Orilla,4001056
+"[{'id': 721, 'main': 'Haze', 'description': 'haze', 'icon': '50n'}]",Jaynagar-Majilpur,1269094
+"[{'id': 211, 'main': 'Thunderstorm', 'description': 'thunderstorm', 'icon': '11n'}]",Çiftlik,318581
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Laoyingpan,1804295
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Oberstadtfeld,6554657
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Selje,3139914
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Provincia de San Cristóbal,3493186
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Landkreis Sömmerda,2831402
+"[{'id': 520, 'main': 'Rain', 'description': 'light intensity shower rain', 'icon': '09d'}]",Liège,2792414
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Tlaixpan,3518363
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",El Dorado,4009984
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Belotić,3204307
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Gloucester,4937829
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Porto,2735941
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]","Leibnitz, Styria",2772753
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10n'}]",Laiya,1707977
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Cheyyar,1254322
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Salalah,286621
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Lyubimets,729466
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Friedelsheim,6554901
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Evans,4193699
+"[{'id': 211, 'main': 'Thunderstorm', 'description': 'thunderstorm', 'icon': '11d'}]",Rémilly,6437809
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Dietersburg,6556555
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Manhattan,4900961
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Rutzenham,2766932
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Estubeny,6361986
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Ngandang,1634134
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Calvatone,3181156
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Urbana,4372201
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Masquefa,6356148
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Laoxialu,7905355
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Sambuca di Sicilia,2523533
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Sierksdorf,6551663
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Jarque,6362819
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Geißen,2921605
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Blowatz,2947604
+"[{'id': 502, 'main': 'Rain', 'description': 'heavy intensity rain', 'icon': '10d'}]",Hepstedt,2906256
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Guyong,1712051
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Momina Klisura,728987
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02n'}]",Hujindian,1940872
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Frontignan,3016956
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Daxinggou,2037749
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Candipuro,1647370
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Casaseca de las Chanas,6362486
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Brunn am Gebirge,7872975
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02n'}]",Bunisari,7921588
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",São Miguel de Machede,2263263
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Messingen,6552909
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Oliveto Lucano,3172049
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Gagnac-sur-Garonne,3016837
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10n'}]",Shenjiamen,1795632
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Santa Eufémia,8012375
+"[{'id': 211, 'main': 'Thunderstorm', 'description': 'thunderstorm', 'icon': '11d'}, {'id': 521, 'main': 'Rain', 'description': 'shower rain', 'icon': '09d'}]",Valperga,3164768
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Luping,7518387
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Taloga,4552740
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Whitehall,2960948
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Macon,4396767
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Brook Park,5148326
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02n'}]",Parramatta,7839763
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Borden,5905875
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Öttevény,3046825
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Sazes do Lorvão,8014839
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Cabaritan East,1721805
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Fortanete,6361517
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Kadumonyong,7792473
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Mei’an,1913819
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Castleconnell,3305640
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Dębno,773341
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Ruprechtshofen,2766951
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Telšiai,593926
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Shijiazhuang,1795269
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Bantawora,7384417
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Schererville,4926170
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Herat Province,1140025
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Kaiserstuhl,2660202
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Brices Creek,4457089
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Pillar Valley,2153180
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Musweiler,2867341
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Lakitelek,3048984
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Ul’yanino,479179
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Itapicuru,3460707
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Xincheng,1927926
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Ostroszowice,3089764
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Sankwia,2412158
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Ardón,3129703
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Slavonski Brod-Posavina,3337512
+"[{'id': 310, 'main': 'Drizzle', 'description': 'light intensity drizzle rain', 'icon': '09d'}]",Plonévez-du-Faou,2986707
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Dong’erying,1812594
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Kaltenbach,2893647
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Sigtuna Municipality,2679300
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Elskop,2930715
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Williamstown,4313572
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Departamento de Morazán,3584317
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Saint George,3573061
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Beaumetz-lès-Loges,3034210
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Gitarama,202217
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Langhagen,6547894
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Shaochang Zhen,7525002
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Kent,3333158
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Kavala,8133899
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Galeana,4006081
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Culbertson,5647366
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Krugsdorf,2883444
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Banhigan,1727201
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Kozienice,767814
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Klostermansfeld,2887444
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Barillas,3128690
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Gémenos,3016398
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Tayport,2636158
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Winton,2633778
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Jamena,3198908
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Chaleins,3027551
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Palheiros de Mira,2736807
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Alufinha,2743014
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Puerto La Cruz,3629672
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Acatlán de Juárez,4019790
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Lake Cowichan,6048316
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Rambouillet,2984513
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Kirrweiler,2890277
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Queensdale,963525
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",El Affroun,2498752
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Salitral,3692727
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Berteaucourt-les-Dames,3033208
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Ploumoguer,6431009
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Sangumata,7584771
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Yozgat,296562
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10n'}]",Pymble,2152361
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Calabash,4458584
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Stawiski,758238
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Bizhbulyak,576195
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Siteia,8133948
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Ponta Delgada (São José),8013441
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Steinbach,6553971
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Seda,6930692
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Serres-Gaston,6433988
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Görzke,6547670
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Cologno al Serio,6537150
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Lattingtown,5124049
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Werben,6547722
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Byala,732721
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Água Doce,3473008
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Gerbrunn,2921165
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Hoisington,4273066
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",An Nimāş,108617
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Wakiso District,448224
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Piding,2853855
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Lauta Dorf,2879994
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02n'}]",Zhaipo,7020021
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Karabük,862468
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Konolfingen Dorf,2660116
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Hede,1808744
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Grulleros,3121076
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Gharb-Chrarda-Beni Hssen,2597550
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Richland,4248062
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Gosheim,2918844
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Évires,3019275
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Beohāri,1276455
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Perama,8133974
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Kendalrejo,7037724
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Cliousclat,3024584
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Smithfield,4492168
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Lindenberg,6554913
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Campo Gallo,3863136
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Gazalkent,1513996
+"[{'id': 502, 'main': 'Rain', 'description': 'heavy intensity rain', 'icon': '10d'}]",Root,7286947
+"[{'id': 701, 'main': 'Mist', 'description': 'mist', 'icon': '50n'}]",Vaikam,1253544
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Mogil’nitsy,625066
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Norris,4645799
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Vesper,2145253
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Blankenheim,6553064
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Orio al Serio,3171953
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Horokanai,2130001
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Jaroměřice,3074461
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Romanel,2658987
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Roxas,1691450
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Brooklyn,5110302
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Curtina,2661060
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Groß-Rohrheim,2915128
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Province of Ascoli Piceno,3182748
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Kandangsapi,7912037
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Viry-Châtillon,2967917
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Utting am Ammersee,2818014
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Fubine,3176505
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Masburg,2873049
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Glannagaul,3300149
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Murrieta Hot Springs,5375916
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Xuhui,1787957
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Rowosari,7350829
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",La Douze,3009622
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Wolferode,2806884
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Galisancho,6360387
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Alcolea de Cinca,3130576
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Mar'ino,529281
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Georgīevka,1524245
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Römerstadt,2845310
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Cadillon,6440329
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Wad az Zāki,364216
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",El Rio,5345844
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Lingig,1706176
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Sosnovo-Ozerskoye,2016216
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Pardeeville,5266199
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Nomós Ártas,264545
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Saint-Cyr-sur-Menthon,2980934
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Zizur Mayor/Zizur Nagusia,6359818
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Icking,2896761
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Saint-Père-sur-Loire,6616830
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Kaliori,1641885
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Lisle,4900080
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",San Anton,1690409
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Langwedel,2880547
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Neptune City,5101687
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Saint-Vallier-de-Thiey,2976695
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",El Nido,1713917
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Amt Schwarzenburg,6458861
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Gosford,2164849
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Vara de Rey,2509819
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Gülzow,6551447
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Sankt Lorenzen bei Knittelfeld,7872395
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Peyrat-de-Bellac,6445409
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Xihanling,2033853
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Dondaicha,1272411
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Taltitz,2824291
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Lake Worth,4704931
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Bergwitz,2950228
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Taozhuang,1548593
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Westbury,2634483
+"[{'id': 701, 'main': 'Mist', 'description': 'mist', 'icon': '50n'}]",Saribudolok,1213921
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Webster,4881109
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Königsau,2885979
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Concepción del Sur,3613281
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Savigny-Lévescault,6445366
+"[{'id': 721, 'main': 'Haze', 'description': 'haze', 'icon': '50n'}]",Ahmedabad,1279233
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Pluduno,2986618
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Farndon,2649665
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Deep Cove,7646978
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Chico,5789949
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02n'}]",Krasnyy Gorod Sad,541724
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Darnah,87205
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Garelochhead,2648877
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Abeilhan,3038782
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Mönsterås,2691407
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}, {'id': 701, 'main': 'Mist', 'description': 'mist', 'icon': '50d'}]",Perriers-sur-Andelle,6430521
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Mendeleyevsk,527579
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Mangochi District,927245
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Icheon-si,1843702
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Forest City,5189963
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Delfinópolis,3464845
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Chomutov,3077685
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Anif,7873287
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Ohatchee,4081197
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02n'}]",Kandana,1241750
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Neudorf,2770832
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Pompogne,2986372
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}, {'id': 741, 'main': 'Fog', 'description': 'fog', 'icon': '50d'}]",Lamon,3175189
+"[{'id': 721, 'main': 'Haze', 'description': 'haze', 'icon': '50d'}]",Anapoima,3689941
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Aba,3056450
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Bandera,4672171
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Luc-sur-Mer,2997204
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Calumet Park,4886269
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Landau,2881646
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Hurtumpascual,6355711
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Halbweg,2911640
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Olmos de Ojeda,6360070
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Montecastrilli,3172998
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Ephrata,5793832
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Berlin Wilmersdorf,7290251
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Konalga,306612
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Villanueva de Córdoba,6357264
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Encina de San Silvestre,3123181
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Bosio,6534871
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Milharado,8012536
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Elsnig,6548786
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Ciudad Obregón,4013704
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Nanshenzao,1799759
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Monivea,2962547
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Glanmire,2964114
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Dookie,2168574
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Murghammer,2867462
+"[{'id': 211, 'main': 'Thunderstorm', 'description': 'thunderstorm', 'icon': '11d'}]",Viriville,6433468
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Pfaffenweiler,6555755
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Otterstadt,2855992
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Golconda,2165089
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Beire,3128388
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Daubach,6553479
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Ballater,2656565
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Pringgodani,7350812
+"[{'id': 520, 'main': 'Rain', 'description': 'light intensity shower rain', 'icon': '09d'}]",Horgen / Allmend,6292759
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Domalain,3021235
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Schramberg,2836203
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Yacheng,1787805
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10n'}]",Babakankadu,7928012
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Sergiyev Posad,496638
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Tieling,2034439
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Coulonges-sur-Sarthe,3023222
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Reporoa,2183524
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Verkhnyaya Tura,474462
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",East Maitland,2167869
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10n'}]",Ponchi,506691
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Cadavedo,3127115
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Macael,2514360
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Petersberg,2854700
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Boot,1723954
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Niederschlettenbach,2862899
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Pogorzela,3088548
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Kade,2894342
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Lake Forest,5364514
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Pinheiro de Ázere,2736193
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Monção Municipality,8010630
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Carmen,1718320
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Dörentrup,6553125
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Ciawitali,8017240
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Altos del Rosario,3792378
+"[{'id': 502, 'main': 'Rain', 'description': 'heavy intensity rain', 'icon': '10d'}]",Friuli Venezia Giulia,3176525
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Neuwegersleben,2863895
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Balvan,733486
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Wüschheim,2805581
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Ryazan,500096
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Tomb,3134387
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Cabeza del Buey,2520672
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Departamento de San Pedro,3836752
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Solzan,2016271
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Suaza,3667764
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Haxby,2647269
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Linz am Rhein,2876952
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Ardsollus Bridge,2966889
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Vostochnyy Sad,804319
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Reudelsterz,2847935
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Soltendieck,6552831
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10n'}]",Talisay,1683871
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Biscotasing,5901919
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Shahrān,1125890
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Sunapee,5093347
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Guardistallo,3175697
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Perry Park,5434370
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Raach am Hochgebirge,7872996
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Relíquias,8010903
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Czyżew-Osada,773676
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Tagbak,1684542
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]",Oljoq,1799155
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Bobenneukirchen,2947464
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Alekseyevskaya,582816
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10d'}]",Maisprach,7286421
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Villeneuve-les-Sablons,2968534
+"[{'id': 521, 'main': 'Rain', 'description': 'shower rain', 'icon': '09d'}]",Toa Baja,4568407
+"[{'id': 502, 'main': 'Rain', 'description': 'heavy intensity rain', 'icon': '10d'}]",Basdahl,6552715
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Iztapa,3595255
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Wolomuku,7462614
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Mönchberg,2869908
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Villarejo de Órbigo,6358751
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10n'}]",Niubitan,1799330
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Cenicero,3125449
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Carolei,2525346
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]","Lama, A",6360226
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Serra San Quirico,3166655
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Welcherath,6559317
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Elberton,4193099
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Valenton,2971027
+"[{'id': 521, 'main': 'Rain', 'description': 'shower rain', 'icon': '09d'}]",Am Sittardsberg,2956320
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Gaspésie-Îles-de-la-Madeleine,6691321
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Mamonit,1702215
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Tindaya,2510452
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Mladenovac,787893
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",Fengxian,1811200
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Quintanilla de la Mata,6356552
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02n'}]",Yuanba,1786119
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Glandorf,6552997
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Obernhof,6554079
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Gouvernes,3015463
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Blot-l'Église,3032195
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Navashino,523198
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Villa Reynolds,3832643
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Kaltbrunn,7286175
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Los Surgentes,3845575
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Kittitas,5799869
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Visp,7287487
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Oberrohrendorf,2769769
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Églisolles,6440028
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",İnönü,311261
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Bredon,2654807
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Krasny Partizan,7018274
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Barceo,6360299
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Wath upon Dearne,2634672
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Prudentópolis,3452216
+"[{'id': 520, 'main': 'Rain', 'description': 'light intensity shower rain', 'icon': '09d'}]",Thalwil / Berg,6293081
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Viamonte,3832957
+"[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]",Klein Algermissen,2889810
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Santa Cruz de la Serós,3109929
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Bath,5894924
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}]",Hurstbourne,4295689
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Voskresensk,471656
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Upper Plenty,2145432
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Neuville-sur-Ain,2990522
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04d'}]",Fraijanes,3595714
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Orègue,2989401
+"[{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}]",Zalavár,3042583
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",Laur,1707049
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",Shili,1940928
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",Nova Pazova,787615
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Fiñana,2517722
+"[{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]",Neuschmölln,2864220
