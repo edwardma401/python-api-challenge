@@ -1,1 +1,1 @@
-api_key = 'your key here'
+api_key = 'weather api key here'
