@@ -1,2 +1,2 @@
-gkey = "google key here!"
-api_key = "Weather API key here!"
+gkey = "Your gkey here"
+api_key = "Weather API key here"
